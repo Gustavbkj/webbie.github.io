@@ -1,0 +1,36 @@
+.overskrift {
+background-color: rgb(255, 128, 0);
+height: 190px;
+color: white;
+font-size: 100px;
+text-align: center;
+line-height: 165px;
+width: 100%;
+margin: 0px 0px 10px 0px;
+box-sizing: border-box;
+}
+
+.sortboks{
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+    box-sizing: border-box;
+}
+
+.sortlinks>li{
+    display: inline-block; 
+    height: 60px;
+    margin-left: 200px;
+    font-size: 30px;
+    line-height: 60px;
+}   
+
+.rund{
+    border-color: black;
+    height: 500px;
+    width: 500px;
+    border:2px;
+    border-style: solid;
+}
+

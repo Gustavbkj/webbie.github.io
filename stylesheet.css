@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*dette er standard indstillinger for alle hjemmesider*/
+}
+
+html, body{
+    width: 100%;
+}
+
+a  {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.m1{
+    margin: 8px;
+}
+
+.m2{
+    margin: 12px;
+}
+
+.m3{
+    margin: 16px;
+}
+
+.cp{
+    color: blue;
+}
+
+.cs{
+    color: aquamarine;
+}
+
+.bc1{
+    background-color: skyblue
+    ;
+}
+
+.bc2{
+    background-color: black;
+}
+
+.cw{
+    color: white;
+}
+
+.banner{
+    transition: 1s;
+}
+
+.banner:hover{
+    background-color: blueviolet;
+    font-size: 30px;
+    color: white;
+    opacity: 50%;
+    scale: 1,1;
+}
+
+.link{
+    width: 60%;
+    margin: 0 auto;
+    padding: 8px;
+}
+
+.link-liste{
+    list-style: none;
+    
+
+}
+
+.link-items{
+    display: inline-block;
+    border: 1px solid red;
+
+}
+
+
